@@ -33,7 +33,30 @@ public:
                 mpp[i][words[j][i]-'a']++;
             }
         }
-        dp.resize(n+1 , vector<int>(z+1 , -1));
-        return solve(0 , 0 , words , target);
+        dp.resize(n+2 , vector<int>(z+2 , 0));
+        // return solve(0 , 0 , words , target);
+
+
+
+        // bc
+        for(int i=0 ;i<z+1 ;i++){
+            dp[n][i] = 1;
+        }
+
+
+        for(int i=n-1 ;i>=0 ; i--){
+            for(int j=z-1;j>=0 ;j--){
+                
+                int res = dp[i][j+1];
+
+                if(mpp[j][target[i]-'a'] > 0){
+                        
+                    res = (res +( 1LL * mpp[j][target[i]-'a'] *  dp[i+1][j+1])%M)%M;
+                }
+
+                dp[i][j] = res;
+            }
+        }
+        return dp[0][0];
     }
 };
