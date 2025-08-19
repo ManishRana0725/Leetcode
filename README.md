@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/ManishRana0725/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0922-possible-bipartition](https://github.com/ManishRana0725/Leetcode/tree/master/0922-possible-bipartition) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0922-possible-bipartition](https://github.com/ManishRana0725/Leetcode/tree/master/0922-possible-bipartition) |
 ## Union Find
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/ManishRana0725/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0922-possible-bipartition](https://github.com/ManishRana0725/Leetcode/tree/master/0922-possible-bipartition) |
 ## Tree
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ManishRana0725/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
