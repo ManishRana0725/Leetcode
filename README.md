@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ManishRana0725/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/ManishRana0725/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0922-possible-bipartition](https://github.com/ManishRana0725/Leetcode/tree/master/0922-possible-bipartition) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0922-possible-bipartition](https://github.com/ManishRana0725/Leetcode/tree/master/0922-possible-bipartition) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Union Find
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/ManishRana0725/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ManishRana0725/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ManishRana0725/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+## Counting
+|  |
+| ------- |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 <!---LeetCode Topics End-->
