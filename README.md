@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/ManishRana0725/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/ManishRana0725/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ManishRana0725/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/ManishRana0725/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ManishRana0725/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/ManishRana0725/Leetcode/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ManishRana0725/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/ManishRana0725/Leetcode/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ManishRana0725/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ManishRana0725/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/ManishRana0725/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/ManishRana0725/Leetcode/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -56,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ManishRana0725/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ManishRana0725/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ManishRana0725/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ManishRana0725/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Queue
 |  |
 | ------- |
@@ -144,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/ManishRana0725/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+## Two Pointers
+|  |
+| ------- |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ManishRana0725/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+## Binary Search
+|  |
+| ------- |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/ManishRana0725/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 <!---LeetCode Topics End-->
