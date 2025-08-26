@@ -9,14 +9,18 @@ public:
 
         if(dp[i] != -1)return dp[i];
 
-       
-        
-        int same = upper_bound(nums.begin()+i+1 , nums.end() , nums[i])-nums.begin();
+        int j = i;
+        long long sum = 0;
+        while (j < n && nums[j] == nums[i]) {
+            sum += nums[j];
+            j++;
+        }
+        //int same = upper_bound(nums.begin()+i+1 , nums.end() , nums[i])-nums.begin();
         int it = upper_bound(nums.begin()+i+1, nums.end(), nums[i]+2) - nums.begin();
         
-        long long nottake = solve(same, nums);
+        long long nottake = solve(j, nums);
         
-        long long take = 1LL*(same - i)*1LL*nums[i] + solve(it , nums);
+        long long take = sum + solve(it , nums);
        
         return dp[i] = max(take , nottake) ;
     }
