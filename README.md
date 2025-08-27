@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ManishRana0725/Leetcode/tree/master/0051-n-queens) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ManishRana0725/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManishRana0725/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ManishRana0725/Leetcode/tree/master/0051-n-queens) |
 | [0813-all-paths-from-source-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ManishRana0725/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
