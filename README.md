@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ManishRana0725/Leetcode/tree/master/0051-n-queens) |
+| [0120-triangle](https://github.com/ManishRana0725/Leetcode/tree/master/0120-triangle) |
 | [1105-uncrossed-lines](https://github.com/ManishRana0725/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ManishRana0725/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/ManishRana0725/Leetcode/tree/master/0120-triangle) |
 | [0863-sum-of-distances-in-tree](https://github.com/ManishRana0725/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1105-uncrossed-lines](https://github.com/ManishRana0725/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
