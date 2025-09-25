@@ -18,9 +18,27 @@ public:
     }
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
-        dp.assign(n+1 , vector<int>(n+1 , INT_MAX));
-        return solve(0 , 0 , triangle);
+        dp.assign(n+1 , vector<int>(n+1 , 0));
+        //return solve(0 , 0 , triangle);
 
+
+        
+
+
+        for(int i=n-1 ; i>= 0 ; i--){
+            for(int j = i; j>= 0 ; j-- ){
+                
+
+                int down =  triangle[i][j] + dp[i+1][j];
+                int dia = triangle[i][j] + dp[i+1][j+1];
+
+
+                dp[i][j] = min(down , dia);
+            }
+        }
+        
+        return dp[0][0];
+        
         
     }
 };
