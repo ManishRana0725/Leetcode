@@ -17,7 +17,19 @@ public:
     }
     long long mostPoints(vector<vector<int>>& questions) {
         int n = questions.size();
-        dp.assign(n+1 , -1);
-        return solve(0 , questions);
+        dp.assign(n+1 , 0);
+        //return solve(0 , questions);
+
+        for(int i=n-1; i>= 0 ; i--){
+            long long res = 0;
+
+            res = max(res , (i+1 >= n) ? 0 : dp[i+1]);
+            res = max(res , questions[i][0] + ((i+questions[i][1]+1 >= n)  ? 0 : dp[i+questions[i][1]+1]));
+            dp[i] = res;
+        }
+
+        return dp[0];
+
+
     }
 };
