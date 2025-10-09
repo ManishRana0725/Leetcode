@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-restore-the-array](https://github.com/ManishRana0725/Leetcode/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ManishRana0725/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/ManishRana0725/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ManishRana0725/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ManishRana0725/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ManishRana0725/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-maximum-points-after-enemy-battles](https://github.com/ManishRana0725/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/ManishRana0725/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/ManishRana0725/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ManishRana0725/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
