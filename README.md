@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ManishRana0725/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ManishRana0725/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3822-fill-a-special-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3822-fill-a-special-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3391-maximum-difference-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ManishRana0725/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ManishRana0725/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3822-fill-a-special-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3822-fill-a-special-grid) |
 ## Counting
 |  |
 | ------- |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3822-fill-a-special-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3822-fill-a-special-grid) |
 <!---LeetCode Topics End-->
