@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3336-water-bottles-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3388-right-triangles](https://github.com/ManishRana0725/Leetcode/tree/master/3388-right-triangles) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/ManishRana0725/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ManishRana0725/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2483-task-scheduler-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [3336-water-bottles-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/ManishRana0725/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/ManishRana0725/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ManishRana0725/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
