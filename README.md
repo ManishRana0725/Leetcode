@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/ManishRana0725/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/ManishRana0725/Leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3363-most-frequent-ids](https://github.com/ManishRana0725/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3374-count-alternating-subarrays](https://github.com/ManishRana0725/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ManishRana0725/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2483-task-scheduler-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [3363-most-frequent-ids](https://github.com/ManishRana0725/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3388-right-triangles](https://github.com/ManishRana0725/Leetcode/tree/master/3388-right-triangles) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ManishRana0725/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3363-most-frequent-ids](https://github.com/ManishRana0725/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ManishRana0725/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Shortest Path
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3822-fill-a-special-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3822-fill-a-special-grid) |
+## Ordered Set
+|  |
+| ------- |
+| [3363-most-frequent-ids](https://github.com/ManishRana0725/Leetcode/tree/master/3363-most-frequent-ids) |
 <!---LeetCode Topics End-->
