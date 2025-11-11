@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ManishRana0725/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/ManishRana0725/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ManishRana0725/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ManishRana0725/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ManishRana0725/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3264-maximum-points-after-enemy-battles](https://github.com/ManishRana0725/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/ManishRana0725/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ManishRana0725/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/ManishRana0725/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ManishRana0725/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ManishRana0725/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ManishRana0725/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/ManishRana0725/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3430-count-days-without-meetings](https://github.com/ManishRana0725/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2483-task-scheduler-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ManishRana0725/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3363-most-frequent-ids](https://github.com/ManishRana0725/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3388-right-triangles](https://github.com/ManishRana0725/Leetcode/tree/master/3388-right-triangles) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ManishRana0725/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3388-right-triangles](https://github.com/ManishRana0725/Leetcode/tree/master/3388-right-triangles) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ManishRana0725/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -248,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ManishRana0725/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3363-most-frequent-ids](https://github.com/ManishRana0725/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ManishRana0725/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
