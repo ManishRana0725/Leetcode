@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ManishRana0725/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3822-fill-a-special-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3822-fill-a-special-grid) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ManishRana0725/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ManishRana0725/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ManishRana0725/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ManishRana0725/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ManishRana0725/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Linked List
 |  |
 | ------- |
