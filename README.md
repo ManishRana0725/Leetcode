@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ManishRana0725/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3822-fill-a-special-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3822-fill-a-special-grid) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ManishRana0725/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Dynamic Programming
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/ManishRana0725/Leetcode/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ManishRana0725/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ManishRana0725/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3822-fill-a-special-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3822-fill-a-special-grid) |
+| [3986-maximum-path-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Counting
 |  |
 | ------- |
