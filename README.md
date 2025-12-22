@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/ManishRana0725/Leetcode/tree/master/0922-possible-bipartition) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Breadth-First Search
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/ManishRana0725/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0922-possible-bipartition](https://github.com/ManishRana0725/Leetcode/tree/master/0922-possible-bipartition) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Tree
