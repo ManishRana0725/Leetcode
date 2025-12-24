@@ -9,7 +9,7 @@ public:
             int real = it.second;
 
             if(parent == v)continue;
-
+            if(vis[v] == 1)continue;
             if(real == 1){
                 ans++;
                 dfs(v , adj , vis , node);
