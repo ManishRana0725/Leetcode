@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/ManishRana0725/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ManishRana0725/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ManishRana0725/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ManishRana0725/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ManishRana0725/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ManishRana0725/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2360-longest-cycle-in-a-graph](https://github.com/ManishRana0725/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManishRana0725/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 ## Backtracking
 |  |
 | ------- |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ManishRana0725/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3363-most-frequent-ids](https://github.com/ManishRana0725/Leetcode/tree/master/3363-most-frequent-ids) |
