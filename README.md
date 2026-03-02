@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-restore-the-array](https://github.com/ManishRana0725/Leetcode/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ManishRana0725/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2953-count-complete-substrings](https://github.com/ManishRana0725/Leetcode/tree/master/2953-count-complete-substrings) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/ManishRana0725/Leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/ManishRana0725/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2483-task-scheduler-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [2953-count-complete-substrings](https://github.com/ManishRana0725/Leetcode/tree/master/2953-count-complete-substrings) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/ManishRana0725/Leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ManishRana0725/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ManishRana0725/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [2953-count-complete-substrings](https://github.com/ManishRana0725/Leetcode/tree/master/2953-count-complete-substrings) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ManishRana0725/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ManishRana0725/Leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
