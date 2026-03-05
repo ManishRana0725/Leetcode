@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/ManishRana0725/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2483-task-scheduler-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/ManishRana0725/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/ManishRana0725/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/ManishRana0725/Leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/ManishRana0725/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/ManishRana0725/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ManishRana0725/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
