@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ManishRana0725/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManishRana0725/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ManishRana0725/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/ManishRana0725/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2262-solving-questions-with-brainpower](https://github.com/ManishRana0725/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2483-task-scheduler-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2483-task-scheduler-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/ManishRana0725/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/ManishRana0725/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/ManishRana0725/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/ManishRana0725/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/ManishRana0725/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ManishRana0725/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/ManishRana0725/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
