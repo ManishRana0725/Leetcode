@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ManishRana0725/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0839-similar-string-groups](https://github.com/ManishRana0725/Leetcode/tree/master/0839-similar-string-groups) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManishRana0725/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ManishRana0725/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/ManishRana0725/Leetcode/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ManishRana0725/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/ManishRana0725/Leetcode/tree/master/0051-n-queens) |
 | [0813-all-paths-from-source-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManishRana0725/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ManishRana0725/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
