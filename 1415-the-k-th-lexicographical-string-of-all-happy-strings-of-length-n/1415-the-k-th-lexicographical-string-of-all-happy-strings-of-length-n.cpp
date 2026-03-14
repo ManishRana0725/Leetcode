@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<string> store;
     int n;
+    int count;
     void solve(int i , char prev , string& s){
         
         if(i == n){
@@ -36,7 +37,7 @@ public:
         string s = "";
         solve(0 , prev , s );
 
-        sort(store.begin() , store.end());
+        //sort(store.begin() , store.end());
 
         if(store.size() < k){
             return "";
