@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ManishRana0725/Leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3822-fill-a-special-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3822-fill-a-special-grid) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/ManishRana0725/Leetcode/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ManishRana0725/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Dynamic Programming
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ManishRana0725/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ManishRana0725/Leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/ManishRana0725/Leetcode/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ManishRana0725/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Linked List
 |  |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0839-similar-string-groups](https://github.com/ManishRana0725/Leetcode/tree/master/0839-similar-string-groups) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ManishRana0725/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/ManishRana0725/Leetcode/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Monotonic Queue
 |  |
 | ------- |
