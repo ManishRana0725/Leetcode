@@ -40,7 +40,7 @@ public:
         for(int i=0 ; i<leftmpp.size() ; i++){
             int need = goal - leftmpp[i];
 
-            auto it = upper_bound(rightmpp.begin() , rightmpp.end() , need);
+            auto it = lower_bound(rightmpp.begin() , rightmpp.end() , need);
 
             
             if(it != rightmpp.end()){
