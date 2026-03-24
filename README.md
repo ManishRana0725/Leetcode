@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/ManishRana0725/Leetcode/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/ManishRana0725/Leetcode/tree/master/0120-triangle) |
+| [0130-surrounded-regions](https://github.com/ManishRana0725/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ManishRana0725/Leetcode/tree/master/0542-01-matrix) |
 | [0839-similar-string-groups](https://github.com/ManishRana0725/Leetcode/tree/master/0839-similar-string-groups) |
 | [0994-rotting-oranges](https://github.com/ManishRana0725/Leetcode/tree/master/0994-rotting-oranges) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ManishRana0725/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ManishRana0725/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ManishRana0725/Leetcode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ManishRana0725/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ManishRana0725/Leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/ManishRana0725/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ManishRana0725/Leetcode/tree/master/0547-number-of-provinces) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ManishRana0725/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ManishRana0725/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/ManishRana0725/Leetcode/tree/master/0994-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManishRana0725/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ManishRana0725/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/ManishRana0725/Leetcode/tree/master/0547-number-of-provinces) |
 | [0839-similar-string-groups](https://github.com/ManishRana0725/Leetcode/tree/master/0839-similar-string-groups) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ManishRana0725/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
