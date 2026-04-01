@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManishRana0725/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ManishRana0725/Leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ManishRana0725/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ManishRana0725/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ManishRana0725/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ManishRana0725/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ManishRana0725/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ManishRana0725/Leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ManishRana0725/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/ManishRana0725/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ManishRana0725/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ManishRana0725/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ManishRana0725/Leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ManishRana0725/Leetcode/tree/master/0210-course-schedule-ii) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ManishRana0725/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Math
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ManishRana0725/Leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ManishRana0725/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ManishRana0725/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ManishRana0725/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ManishRana0725/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
