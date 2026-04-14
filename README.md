@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-restore-the-array](https://github.com/ManishRana0725/Leetcode/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ManishRana0725/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-closest-subsequence-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1755-closest-subsequence-sum) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManishRana0725/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/ManishRana0725/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ManishRana0725/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ManishRana0725/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ManishRana0725/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ManishRana0725/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/ManishRana0725/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManishRana0725/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ManishRana0725/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 ## Math
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManishRana0725/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Divide and Conquer
 |  |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ManishRana0725/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ManishRana0725/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ManishRana0725/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManishRana0725/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ManishRana0725/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/ManishRana0725/Leetcode/tree/master/3887-incremental-even-weighted-cycle-queries) |
 ## Minimum Spanning Tree
