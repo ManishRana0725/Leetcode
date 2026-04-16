@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/ManishRana0725/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1105-filling-bookcase-shelves](https://github.com/ManishRana0725/Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManishRana0725/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ManishRana0725/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManishRana0725/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ManishRana0725/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManishRana0725/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManishRana0725/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Divide and Conquer
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ManishRana0725/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ManishRana0725/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ManishRana0725/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManishRana0725/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManishRana0725/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ManishRana0725/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/ManishRana0725/Leetcode/tree/master/3887-incremental-even-weighted-cycle-queries) |
