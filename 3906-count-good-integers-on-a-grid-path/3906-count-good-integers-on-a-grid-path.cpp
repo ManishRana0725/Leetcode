@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> path;
-
     long long dp[17][2][8][11];
 
     long long solve(int i, int tight, int k, int prev, string &s) {
@@ -13,7 +12,7 @@ public:
         long long ans = 0;
 
         for (int d = 0; d <= limit; d++) {
-            int ntight = tight && (d == limit);
+            int ntight = tight && (d == s[i]-'0');
 
             if (k < 7 && i == path[k]) {
                 if (d < prev) continue;
