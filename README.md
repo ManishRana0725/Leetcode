@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3599-partition-array-to-minimize-xor](https://github.com/ManishRana0725/Leetcode/tree/master/3599-partition-array-to-minimize-xor) |
+| [3906-count-good-integers-on-a-grid-path](https://github.com/ManishRana0725/Leetcode/tree/master/3906-count-good-integers-on-a-grid-path) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Prefix Sum
 |  |
