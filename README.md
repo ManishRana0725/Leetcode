@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ManishRana0725/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/ManishRana0725/Leetcode/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/ManishRana0725/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/ManishRana0725/Leetcode/tree/master/0130-surrounded-regions) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ManishRana0725/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1631-path-with-minimum-effort](https://github.com/ManishRana0725/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/ManishRana0725/Leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3427-special-array-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3427-special-array-ii) |
