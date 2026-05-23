@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManishRana0725/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/ManishRana0725/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ManishRana0725/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ManishRana0725/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-closest-subsequence-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/ManishRana0725/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2262-solving-questions-with-brainpower](https://github.com/ManishRana0725/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
