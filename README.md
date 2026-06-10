@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ManishRana0725/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3599-partition-array-to-minimize-xor](https://github.com/ManishRana0725/Leetcode/tree/master/3599-partition-array-to-minimize-xor) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ManishRana0725/Leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ManishRana0725/Leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ManishRana0725/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ManishRana0725/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-most-frequent-ids](https://github.com/ManishRana0725/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ManishRana0725/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ManishRana0725/Leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Trie
 |  |
