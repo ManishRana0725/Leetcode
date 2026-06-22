@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ManishRana0725/Leetcode/tree/master/0127-word-ladder) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ManishRana0725/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0839-similar-string-groups](https://github.com/ManishRana0725/Leetcode/tree/master/0839-similar-string-groups) |
+| [1189-maximum-number-of-balloons](https://github.com/ManishRana0725/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManishRana0725/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ManishRana0725/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/ManishRana0725/Leetcode/tree/master/1517-restore-the-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ManishRana0725/Leetcode/tree/master/0127-word-ladder) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ManishRana0725/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0839-similar-string-groups](https://github.com/ManishRana0725/Leetcode/tree/master/0839-similar-string-groups) |
+| [1189-maximum-number-of-balloons](https://github.com/ManishRana0725/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2483-task-scheduler-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2483-task-scheduler-ii) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ManishRana0725/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3388-right-triangles](https://github.com/ManishRana0725/Leetcode/tree/master/3388-right-triangles) |
