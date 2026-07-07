@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/ManishRana0725/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/ManishRana0725/Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManishRana0725/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [4048-minimum-time-to-complete-all-deliveries](https://github.com/ManishRana0725/Leetcode/tree/master/4048-minimum-time-to-complete-all-deliveries) |
 ## Simulation
