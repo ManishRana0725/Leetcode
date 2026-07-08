@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ManishRana0725/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3599-partition-array-to-minimize-xor](https://github.com/ManishRana0725/Leetcode/tree/master/3599-partition-array-to-minimize-xor) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ManishRana0725/Leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## String
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ManishRana0725/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/ManishRana0725/Leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/ManishRana0725/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/ManishRana0725/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Greedy
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/ManishRana0725/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/ManishRana0725/Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManishRana0725/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [4048-minimum-time-to-complete-all-deliveries](https://github.com/ManishRana0725/Leetcode/tree/master/4048-minimum-time-to-complete-all-deliveries) |
 ## Simulation
