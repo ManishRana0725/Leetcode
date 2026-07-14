@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-maximum-points-after-enemy-battles](https://github.com/ManishRana0725/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ManishRana0725/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManishRana0725/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/ManishRana0725/Leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3363-most-frequent-ids](https://github.com/ManishRana0725/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3374-count-alternating-subarrays](https://github.com/ManishRana0725/Leetcode/tree/master/3374-count-alternating-subarrays) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/ManishRana0725/Leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManishRana0725/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ManishRana0725/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-water-bottles-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManishRana0725/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3374-count-alternating-subarrays](https://github.com/ManishRana0725/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3388-right-triangles](https://github.com/ManishRana0725/Leetcode/tree/master/3388-right-triangles) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -527,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/ManishRana0725/Leetcode/tree/master/1291-sequential-digits) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/ManishRana0725/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManishRana0725/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
