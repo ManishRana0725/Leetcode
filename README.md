@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManishRana0725/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/ManishRana0725/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManishRana0725/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/ManishRana0725/Leetcode/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/ManishRana0725/Leetcode/tree/master/0120-triangle) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ManishRana0725/Leetcode/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/ManishRana0725/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1755-closest-subsequence-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/ManishRana0725/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ManishRana0725/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManishRana0725/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1755-closest-subsequence-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManishRana0725/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
