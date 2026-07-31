@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ManishRana0725/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2953-count-complete-substrings](https://github.com/ManishRana0725/Leetcode/tree/master/2953-count-complete-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishRana0725/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ManishRana0725/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/ManishRana0725/Leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/ManishRana0725/Leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/ManishRana0725/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishRana0725/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/ManishRana0725/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/ManishRana0725/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ManishRana0725/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/ManishRana0725/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/ManishRana0725/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ManishRana0725/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/ManishRana0725/Leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2953-count-complete-substrings](https://github.com/ManishRana0725/Leetcode/tree/master/2953-count-complete-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ManishRana0725/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/ManishRana0725/Leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ManishRana0725/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3354-replace-question-marks-in-string-to-minimize-its-value](https://github.com/ManishRana0725/Leetcode/tree/master/3354-replace-question-marks-in-string-to-minimize-its-value) |
 | [3388-right-triangles](https://github.com/ManishRana0725/Leetcode/tree/master/3388-right-triangles) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ManishRana0725/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
