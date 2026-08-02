@@ -31,7 +31,7 @@ public:
                 long long diff = total - shifts[j];
 
                 // binaray on prefix array as diff is target 
-
+                // can also use upper_bound , lower_bound
                 int l = i, r = n - 1;
                 int pos = i;
 
