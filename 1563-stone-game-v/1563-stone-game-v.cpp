@@ -34,8 +34,33 @@ public:
             prefix[i] = stoneValue[i] + prefix[i-1] ;
         }
 
-        vector<vector<int>> dp(n+1 , vector<int>(n+1 , -1));
+        vector<vector<int>> dp(n+1 , vector<int>(n+1 , 0));
 
-        return solve(0 , n-1 , prefix , dp);
+        //return solve(0 , n-1 , prefix , dp);
+
+
+        for(int l = n-1 ; l >= 0 ; l--){
+
+            for(int r = 0 ; r < n ; r++){
+
+                int ans = 0;
+                for(int i = l ; i <= r-1 ; i++){
+
+                    int leftsum = prefix[i] - ((l-1 >= 0) ? prefix[l-1] : 0);
+                    int rightsum = prefix[r] - prefix[i];
+
+                    if(leftsum < rightsum){
+                        ans = max(ans , leftsum + dp[l][i]);
+                    }else if(rightsum < leftsum){
+                        ans = max(ans , rightsum + dp[i+1][r]);
+                    }else{
+                        ans = max(ans , leftsum + max(dp[l][i] , dp[i+1][r] )  );
+                    } 
+                }
+
+                dp[l][r] = ans;
+            }
+        }
+        return dp[0][n-1];
     }
 };
