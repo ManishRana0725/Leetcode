@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3822-fill-a-special-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3822-fill-a-special-grid) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/ManishRana0725/Leetcode/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManishRana0725/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4027-elevator-requests-iii](https://github.com/ManishRana0725/Leetcode/tree/master/4027-elevator-requests-iii) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManishRana0725/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4048-minimum-time-to-complete-all-deliveries](https://github.com/ManishRana0725/Leetcode/tree/master/4048-minimum-time-to-complete-all-deliveries) |
 ## Simulation
 |  |
