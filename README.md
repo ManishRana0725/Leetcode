@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/ManishRana0725/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1105-filling-bookcase-shelves](https://github.com/ManishRana0725/Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1140-stone-game-ii](https://github.com/ManishRana0725/Leetcode/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/ManishRana0725/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/ManishRana0725/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ManishRana0725/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/ManishRana0725/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1105-filling-bookcase-shelves](https://github.com/ManishRana0725/Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1140-stone-game-ii](https://github.com/ManishRana0725/Leetcode/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManishRana0725/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ManishRana0725/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManishRana0725/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ManishRana0725/Leetcode/tree/master/1140-stone-game-ii) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ManishRana0725/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1872-stone-game-viii](https://github.com/ManishRana0725/Leetcode/tree/master/1872-stone-game-viii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ManishRana0725/Leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/ManishRana0725/Leetcode/tree/master/1563-stone-game-v) |
 | [1799-maximize-score-after-n-operations](https://github.com/ManishRana0725/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1872-stone-game-viii](https://github.com/ManishRana0725/Leetcode/tree/master/1872-stone-game-viii) |
@@ -604,11 +608,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ManishRana0725/Leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/ManishRana0725/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ManishRana0725/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ManishRana0725/Leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/ManishRana0725/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ManishRana0725/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ManishRana0725/Leetcode/tree/master/2029-stone-game-ix) |
@@ -619,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ManishRana0725/Leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/ManishRana0725/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ManishRana0725/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
