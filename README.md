@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-maximize-score-after-n-operations](https://github.com/ManishRana0725/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1872-stone-game-viii](https://github.com/ManishRana0725/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ManishRana0725/Leetcode/tree/master/2029-stone-game-ix) |
+| [2101-detonate-the-maximum-bombs](https://github.com/ManishRana0725/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/ManishRana0725/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManishRana0725/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2262-solving-questions-with-brainpower](https://github.com/ManishRana0725/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ManishRana0725/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2101-detonate-the-maximum-bombs](https://github.com/ManishRana0725/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ManishRana0725/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ManishRana0725/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ManishRana0725/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ManishRana0725/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2101-detonate-the-maximum-bombs](https://github.com/ManishRana0725/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ManishRana0725/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ManishRana0725/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManishRana0725/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-maximize-score-after-n-operations](https://github.com/ManishRana0725/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1872-stone-game-viii](https://github.com/ManishRana0725/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ManishRana0725/Leetcode/tree/master/2029-stone-game-ix) |
+| [2101-detonate-the-maximum-bombs](https://github.com/ManishRana0725/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishRana0725/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-water-bottles-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManishRana0725/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ManishRana0725/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ManishRana0725/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2101-detonate-the-maximum-bombs](https://github.com/ManishRana0725/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManishRana0725/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManishRana0725/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -636,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ManishRana0725/Leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/ManishRana0725/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ManishRana0725/Leetcode/tree/master/2029-stone-game-ix) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/ManishRana0725/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
