@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-filling-bookcase-shelves](https://github.com/ManishRana0725/Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/ManishRana0725/Leetcode/tree/master/1140-stone-game-ii) |
+| [1187-make-array-strictly-increasing](https://github.com/ManishRana0725/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1288-remove-covered-intervals](https://github.com/ManishRana0725/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/ManishRana0725/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ManishRana0725/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-filling-bookcase-shelves](https://github.com/ManishRana0725/Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/ManishRana0725/Leetcode/tree/master/1140-stone-game-ii) |
+| [1187-make-array-strictly-increasing](https://github.com/ManishRana0725/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ManishRana0725/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ManishRana0725/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManishRana0725/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ManishRana0725/Leetcode/tree/master/0015-3sum) |
+| [1187-make-array-strictly-increasing](https://github.com/ManishRana0725/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1288-remove-covered-intervals](https://github.com/ManishRana0725/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ManishRana0725/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ManishRana0725/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManishRana0725/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManishRana0725/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1187-make-array-strictly-increasing](https://github.com/ManishRana0725/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1631-path-with-minimum-effort](https://github.com/ManishRana0725/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/ManishRana0725/Leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3427-special-array-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3427-special-array-ii) |
@@ -658,4 +662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/ManishRana0725/Leetcode/tree/master/1514-path-with-maximum-probability) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [1187-make-array-strictly-increasing](https://github.com/ManishRana0725/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 <!---LeetCode Topics End-->
