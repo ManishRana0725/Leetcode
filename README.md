@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManishRana0725/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/ManishRana0725/Leetcode/tree/master/1406-stone-game-iii) |
 | [1514-path-with-maximum-probability](https://github.com/ManishRana0725/Leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ManishRana0725/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/ManishRana0725/Leetcode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/ManishRana0725/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ManishRana0725/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ManishRana0725/Leetcode/tree/master/1406-stone-game-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ManishRana0725/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/ManishRana0725/Leetcode/tree/master/1517-restore-the-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ManishRana0725/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/ManishRana0725/Leetcode/tree/master/1563-stone-game-v) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ManishRana0725/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-closest-subsequence-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1755-closest-subsequence-sum) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ManishRana0725/Leetcode/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/ManishRana0725/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ManishRana0725/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ManishRana0725/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1755-closest-subsequence-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/ManishRana0725/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
