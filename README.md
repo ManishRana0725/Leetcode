@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3391-maximum-difference-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ManishRana0725/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/ManishRana0725/Leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManishRana0725/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ManishRana0725/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/ManishRana0725/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3391-maximum-difference-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/ManishRana0725/Leetcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManishRana0725/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManishRana0725/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/ManishRana0725/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ManishRana0725/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/ManishRana0725/Leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/ManishRana0725/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/ManishRana0725/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManishRana0725/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3430-count-days-without-meetings](https://github.com/ManishRana0725/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManishRana0725/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/ManishRana0725/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1631-path-with-minimum-effort](https://github.com/ManishRana0725/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/ManishRana0725/Leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManishRana0725/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3427-special-array-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManishRana0725/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManishRana0725/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
