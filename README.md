@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/ManishRana0725/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2483-task-scheduler-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2906-construct-product-matrix](https://github.com/ManishRana0725/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/ManishRana0725/Leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/ManishRana0725/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ManishRana0725/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ManishRana0725/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/ManishRana0725/Leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/ManishRana0725/Leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ManishRana0725/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManishRana0725/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ManishRana0725/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2953-count-complete-substrings](https://github.com/ManishRana0725/Leetcode/tree/master/2953-count-complete-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishRana0725/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
