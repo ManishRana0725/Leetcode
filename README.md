@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/ManishRana0725/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/ManishRana0725/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2483-task-scheduler-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [2906-construct-product-matrix](https://github.com/ManishRana0725/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/ManishRana0725/Leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ManishRana0725/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ManishRana0725/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManishRana0725/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/ManishRana0725/Leetcode/tree/master/1872-stone-game-viii) |
+| [2906-construct-product-matrix](https://github.com/ManishRana0725/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/ManishRana0725/Leetcode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ManishRana0725/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ManishRana0725/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/ManishRana0725/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2906-construct-product-matrix](https://github.com/ManishRana0725/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ManishRana0725/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
