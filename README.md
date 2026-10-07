@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ManishRana0725/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ManishRana0725/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/ManishRana0725/Leetcode/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/ManishRana0725/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ManishRana0725/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/ManishRana0725/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0839-similar-string-groups](https://github.com/ManishRana0725/Leetcode/tree/master/0839-similar-string-groups) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ManishRana0725/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ManishRana0725/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ManishRana0725/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/ManishRana0725/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/ManishRana0725/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ManishRana0725/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ManishRana0725/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManishRana0725/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/ManishRana0725/Leetcode/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/ManishRana0725/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0813-all-paths-from-source-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ManishRana0725/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1799-maximize-score-after-n-operations](https://github.com/ManishRana0725/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
