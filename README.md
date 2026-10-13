@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ManishRana0725/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManishRana0725/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ManishRana0725/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ManishRana0725/Leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ManishRana0725/Leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ManishRana0725/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ManishRana0725/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/ManishRana0725/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ManishRana0725/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ManishRana0725/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4027-elevator-requests-iii](https://github.com/ManishRana0725/Leetcode/tree/master/4027-elevator-requests-iii) |
 ## Hash Table
 |  |
