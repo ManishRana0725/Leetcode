@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/ManishRana0725/Leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManishRana0725/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ManishRana0725/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ManishRana0725/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/ManishRana0725/Leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/ManishRana0725/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ManishRana0725/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/ManishRana0725/Leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManishRana0725/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2953-count-complete-substrings](https://github.com/ManishRana0725/Leetcode/tree/master/2953-count-complete-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ManishRana0725/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManishRana0725/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManishRana0725/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ManishRana0725/Leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManishRana0725/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManishRana0725/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Union-Find
 |  |
