@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ManishRana0725/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/ManishRana0725/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ManishRana0725/Leetcode/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ManishRana0725/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ManishRana0725/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/ManishRana0725/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManishRana0725/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ManishRana0725/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ManishRana0725/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1755-closest-subsequence-sum](https://github.com/ManishRana0725/Leetcode/tree/master/1755-closest-subsequence-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ManishRana0725/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/ManishRana0725/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ManishRana0725/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/ManishRana0725/Leetcode/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/ManishRana0725/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1631-path-with-minimum-effort](https://github.com/ManishRana0725/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManishRana0725/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ManishRana0725/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/ManishRana0725/Leetcode/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManishRana0725/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3427-special-array-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3427-special-array-ii) |
