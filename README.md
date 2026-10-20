@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3873-maximum-points-activated-with-one-addition](https://github.com/ManishRana0725/Leetcode/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManishRana0725/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ManishRana0725/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManishRana0725/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ManishRana0725/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/ManishRana0725/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [4027-elevator-requests-iii](https://github.com/ManishRana0725/Leetcode/tree/master/4027-elevator-requests-iii) |
 ## Hash Table
 |  |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManishRana0725/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/ManishRana0725/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [4048-minimum-time-to-complete-all-deliveries](https://github.com/ManishRana0725/Leetcode/tree/master/4048-minimum-time-to-complete-all-deliveries) |
 ## Simulation
 |  |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/ManishRana0725/Leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ManishRana0725/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3886-sum-of-sortable-integers](https://github.com/ManishRana0725/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/ManishRana0725/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Number Theory
 |  |
