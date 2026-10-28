@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3873-maximum-points-activated-with-one-addition](https://github.com/ManishRana0725/Leetcode/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManishRana0725/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ManishRana0725/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/ManishRana0725/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3599-partition-array-to-minimize-xor](https://github.com/ManishRana0725/Leetcode/tree/master/3599-partition-array-to-minimize-xor) |
 | [3620-network-recovery-pathways](https://github.com/ManishRana0725/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3906-count-good-integers-on-a-grid-path](https://github.com/ManishRana0725/Leetcode/tree/master/3906-count-good-integers-on-a-grid-path) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3599-partition-array-to-minimize-xor](https://github.com/ManishRana0725/Leetcode/tree/master/3599-partition-array-to-minimize-xor) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ManishRana0725/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/ManishRana0725/Leetcode/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/ManishRana0725/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [4027-elevator-requests-iii](https://github.com/ManishRana0725/Leetcode/tree/master/4027-elevator-requests-iii) |
 ## Matrix
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ManishRana0725/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManishRana0725/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3822-fill-a-special-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3822-fill-a-special-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/ManishRana0725/Leetcode/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Counting
 |  |
