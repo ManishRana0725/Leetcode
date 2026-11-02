@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ManishRana0725/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ManishRana0725/Leetcode/tree/master/0130-surrounded-regions) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ManishRana0725/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ManishRana0725/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/ManishRana0725/Leetcode/tree/master/0542-01-matrix) |
 | [0839-similar-string-groups](https://github.com/ManishRana0725/Leetcode/tree/master/0839-similar-string-groups) |
 | [0994-rotting-oranges](https://github.com/ManishRana0725/Leetcode/tree/master/0994-rotting-oranges) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ManishRana0725/Leetcode/tree/master/0015-3sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ManishRana0725/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/ManishRana0725/Leetcode/tree/master/1187-make-array-strictly-increasing) |
 | [1288-remove-covered-intervals](https://github.com/ManishRana0725/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ManishRana0725/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ManishRana0725/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ManishRana0725/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/ManishRana0725/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/ManishRana0725/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ManishRana0725/Leetcode/tree/master/1406-stone-game-iii) |
