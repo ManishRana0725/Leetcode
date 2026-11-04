@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ManishRana0725/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ManishRana0725/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ManishRana0725/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ManishRana0725/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManishRana0725/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManishRana0725/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/ManishRana0725/Leetcode/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/ManishRana0725/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ManishRana0725/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ManishRana0725/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3599-partition-array-to-minimize-xor](https://github.com/ManishRana0725/Leetcode/tree/master/3599-partition-array-to-minimize-xor) |
 | [3620-network-recovery-pathways](https://github.com/ManishRana0725/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ManishRana0725/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManishRana0725/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ManishRana0725/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ManishRana0725/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManishRana0725/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ManishRana0725/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ManishRana0725/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2953-count-complete-substrings](https://github.com/ManishRana0725/Leetcode/tree/master/2953-count-complete-substrings) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ManishRana0725/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ManishRana0725/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/ManishRana0725/Leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/ManishRana0725/Leetcode/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Topological Sort
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/ManishRana0725/Leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/ManishRana0725/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/ManishRana0725/Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ManishRana0725/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ManishRana0725/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManishRana0725/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ManishRana0725/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -624,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-most-frequent-ids](https://github.com/ManishRana0725/Leetcode/tree/master/3363-most-frequent-ids) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ManishRana0725/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ManishRana0725/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ManishRana0725/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/ManishRana0725/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ManishRana0725/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ManishRana0725/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
