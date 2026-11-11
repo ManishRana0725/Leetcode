@@ -2,7 +2,7 @@ class Solution {
 public:
     long long minimumCost(int cost1, int cost2, int costboth, int need1, int need2) {
         
-        bool bothorone = false; // true if both cost1 + cost2 > copstboth is less
+        bool bothorone = false; // true if both cost1 + cost2 > copstboth 
 
         if(cost1 + cost2 > costboth){
             bothorone = true;
@@ -55,7 +55,6 @@ public:
             }
             
         }
-        
         return ans;
     }
 };
